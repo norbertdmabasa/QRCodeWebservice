@@ -1,0 +1,6 @@
+package com.eqrcode.filmetrics;
+
+@RestController
+public class LoginController {
+	
+}
